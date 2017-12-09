@@ -7,7 +7,8 @@
 	<title>Région paca</title>
 	<link rel="stylesheet" href="css/foundation.css">
 	<link rel="stylesheet" href="css/app.css"> 
-	<link rel="stylesheet" href="css/style.css"
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/bar.scss">
 </head>
 <body>
 
@@ -23,7 +24,7 @@
 			<ul class="dropdown menu" data-dropdown-menu>
 
 			<li>
-					<a href="#">ACCEUIL</a>
+					<a href="index.php">ACCEUIL</a>
 				</li>
 
 
@@ -33,7 +34,7 @@
 					<ul class="menu vertical nested">
 						<li><a href="#">Histoire de la région</a></li>
 						<li><a href="#">Art</a></li>
-						<li><a href="#">Gastronomie</a></li>
+						<li><a href="gastronomie.php">Gastronomie</a></li>
 					</ul>
 				</li>
 
@@ -42,8 +43,8 @@
 				<li>
 					<a href="#">TOURISME</a>
 					<ul class="menu vertical nested">
-						<li><a href="#">Evenement Culturel</a></li>
-						<li><a href="#">Lieux Historique</a></li>
+						<li><a href="evenements-culturels.php">Evenement Culturel</a></li>
+						<li><a href="lieux-historiques.php">Lieux Historique</a></li>
 						<li><a href="#">Sotir le soir</a></li>
 					</ul>
 				</li>
@@ -52,23 +53,23 @@
 				<li>
 					<a href="#">SE DEPLACER</a>
 					<ul class="menu vertical nested">
-						<li><a href="#">Y aller</a></li>
-						<li><a href="#">Dans la région</a></li>
+						<li><a href="y_aller.php">Y aller</a></li>
+						<li><a href="dans_la_region.php">Dans la région</a></li>
 					</ul>
 				</li>
 
 				<li>
-					<a href="#">Autre</a>
+					<a href="#">AUTRE</a>
 					<ul class="menu vertical nested">
 						<li><a href="#">Astuce</a></li>
-						<li><a href="#">Etude</a></li>
+						<li><a href="etudes.php">Etude</a></li>
 						<li><a href="#">Paysages et promenades</a></li>
 					</ul>
 				</li>
 
 
 
-				<li><a href="#">A propos</a></li>
+				<li><a href="#">A PROPOS</a></li>
 			</ul>
 		</div>
 	</div>
@@ -79,3 +80,22 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
+<script type="text/javascript">
+	
+
+  // Collapse Navbar
+  var navbarCollapse = function () {
+    if ($(".row1").offset().top > 100) {
+      $(".row1").addClass("navbar-shrink");
+    } else {
+      $(".row1").removeClass("navbar-shrink");
+    }
+  };
+  // Collapse now if page is not at top
+  navbarCollapse();
+  // Collapse the navbar when page is scrolled
+  $(window).scroll(navbarCollapse);
+
+
+</script>

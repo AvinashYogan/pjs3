@@ -11,10 +11,15 @@
      text-align: justify;
    }
 
+ .vertical{
+   box-shadow: 0px 1px 10px black;
+   opacity: 0.8;
+ }
 .title p{
 text-align: center;
 }
 .title{
+  font-family: 'Oswald', sans-serif;
 z-index: 10;
 color: white;
 text-align: center;
@@ -28,7 +33,7 @@ margin-top: -40%;
     border-color: white;
 }
    #Presentation{
-    height:1047px;
+    height:100%;
     color: #fff;
     z-index: 10;
     border-bottom: 20px solid black;
@@ -37,10 +42,11 @@ margin-top: -40%;
 
   }
 
+
   .columns{
 
 
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+font-family: 'Oswald', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-variant: normal;
@@ -61,18 +67,29 @@ margin-top: -40%;
   }
   .row1{
     top: 0px;
+
+       position: fixed;
+    z-index: 20;
+
+    background: transparent;
+    width: 100%;
+
   }
   .row2{
     bottom: 0px;
-  }
-  .row1 , .row2{
-    position: fixed;
+
+       position: fixed;
+    z-index: 20;
 
     background: #C9D6FF;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #FFF, #E7E6E6);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #FFF, #E7E6E6);; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     width: 100%;
     box-shadow: 0px 5px 25px black;
+
+  }
+  .row1 , .row2{
+ 
   }
 
 
@@ -86,31 +103,25 @@ margin-top: -40%;
     margin-left: 0rem;
   }
   .navbar-brand{
-    background-image: url("../img/icon_paca2.png");
-    background-repeat: no-repeat;
-    width: 120px;
-    height: 65px;
-    float: left;
-    background-size: 100% 85%;
-div.titre {
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-}			
+  background-image: url("../img/logo_paca.png");
+background-repeat: no-repeat;
+width: 70px;
+height: 65px;
+float: left;
+background-size: 100% 100%;
+margin-left: 1%;
 
-div.titre h1 {
-	font-size: 28px;
-	text-decoration: bold;
-}
 
-div.images3 {
-	text-align: center;
-	margin-bottom: 4px;
-}
-			
-div.images3 img {
-	width: 32%;
-	height: auto;
-}
 
   }
+
+    
+     .navbar-shrink {
+      transition: 0.5;
+       background: #C9D6FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFF, #E7E6E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFF, #E7E6E6);; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0px 5px 25px black;
+    width: 100%;
+      }
+

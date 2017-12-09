@@ -8,8 +8,8 @@
 	<body>
 		<?php include('menu.html'); ?>
 		<div class="container">
-			<div class="titre">
-				<h1>Evènements Culturels</h1>
+			<div style="margin-top: 10%" class="titre">
+				<h1 style="text-align: center;">Evènements Culturels</h1>
 			</div>
 			<div class="row">
 				<div class="images3">
