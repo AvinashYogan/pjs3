@@ -7,44 +7,78 @@
 	
 }
 .row{
+<<<<<<< HEAD
 		margin-top: 25%;
+=======
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
 	    width: 50%;
     margin-right: auto;
     margin-left: auto; 
 }
 .row img:hover{
+<<<<<<< HEAD
 		transition-duration: 0.5s;
 /*		background-image: url('../images/banniere.jpg');*/
 	-webkit-filter: grayscale(100%) blur(3px); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%) blur(3px);
     transition-duration: 0.5s;
 
+=======
+/*		transition-duration: 0.5s;
+	-webkit-filter: grayscale(100%) blur(3px); 
+    filter: grayscale(100%) blur(3px);
+    transition-duration: 0.5s;
+*/
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
     
 
+}
+
+<<<<<<< HEAD
+.img1{
+ background: url("../img/Culture - Monuments.jpg");
+background-size: 100% 100%;
+height: 470px;
+=======
+.grid{
+height: 470px;
 }
 
 .img1{
  background: url("../img/Culture - Monuments.jpg");
 background-size: 100% 100%;
-height: 470px;
+margin-top: 40%;
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
 }
 .img2{
  background: url("../img/Géographie - Paysages(3).jpg");
 background-size: 100% 100%;
+<<<<<<< HEAD
 height: 470px;
+=======
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
 }
 .img3{
  background: url("../img/Tourisme - Evenements culturels.jpg");
 background-size: 100% 100%;
+<<<<<<< HEAD
 height: 470px;
+=======
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
 }
 .img4{
  background: url("../img/Transport.jpg");
 background-size: 100% 100%;
+<<<<<<< HEAD
 height: 470px;
 }
 
  .img1:hover,  .img2:hover ,  .img3:hover , .img4:hover {
+=======
+}
+
+ .grid:hover {
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
  	cursor: pointer;
     transition-duration: 0.5s;
   -webkit-filter: grayscale(100%) blur(0px); 

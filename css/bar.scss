@@ -1,0 +1,10 @@
+&.navbar-shrink {
+      border-bottom: 1px solid fade-out($gray-900, .9);
+      background-color: $white;
+      .navbar-brand {
+        color: $primary;
+        &:focus,
+        &:hover {
+          color: darken($primary, .1);
+        }
+      }

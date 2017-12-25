@@ -30,25 +30,41 @@
 
     <div class="row">
       <a href="">
+<<<<<<< HEAD
         <div class="img1">
+=======
+        <div class="img1 grid">
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
          
           <h5 class="title2">Culture</h5>
         </div>
       </a>
       <a href="">
+<<<<<<< HEAD
        <div class="img2">
+=======
+       <div class="img2 grid">
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
          
         <h5 class="title2">Géographie</h5>
       </div>
     </a>
     <a href="">
+<<<<<<< HEAD
      <div class="img3">
+=======
+     <div class="img3 grid">
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
        
       <h5 class="title2">Tourisme</h5>
     </div>
   </a>
   <a href="">
+<<<<<<< HEAD
    <div class="img4">
+=======
+   <div class="img4 grid">
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
      
     <h5 class="title2">Se Déplacer</h5>
   </div>
@@ -68,6 +84,7 @@
 
 
 
+<<<<<<< HEAD
   //     $('.img1').mouseEnter(function() {
 
 
@@ -93,4 +110,6 @@
 
   //   });
 
+=======
+>>>>>>> ec094af08f4fbfe52e9f154dcccf367106b757f5
 </script>
