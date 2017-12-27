@@ -5,6 +5,10 @@
 		<meta charset="UTF-8">
 		<style>
 			#title {
+<<<<<<< HEAD
+=======
+				margin-top: 10%;
+>>>>>>> e018c61cb81a99860fb24a3a081d97f730a697c1
 				text-align:center;
 			}
 			
