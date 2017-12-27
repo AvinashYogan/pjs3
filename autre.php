@@ -7,6 +7,7 @@
   <title>Région paca</title>
   <link rel="stylesheet" href="css/foundation.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css"></script>
+  
   <link rel="stylesheet" href="css/app.css"> 
   <link rel="stylesheet" href="css/foundation/style.css">
 
@@ -60,6 +61,7 @@
 <script src="js/vendor/jquery.js"></script>
 <script src="js/vendor/what-input.js"></script>
 <script src="js/vendor/foundation.js"></script>
+
 <script src="js/app.js"></script>
 </body>
 </html>
