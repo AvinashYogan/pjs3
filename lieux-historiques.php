@@ -2,14 +2,14 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
 		<?php include('menu.html'); ?>
 		<div class="container">
 			<div style="margin-top: 10%" class="titre">
-				<h1 style="text-align: center;">Lieux Historiques</h1>
+				<h1  style="font-family: 'Oswald', sans-serif; text-align: center;">Lieux Historiques</h1>
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-sm-4">
@@ -102,7 +102,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-4">
 					<div class="view overlay hm-black-strong">
-						<img src="img/lieux-historiques/Cathédrale_De_La_Major.jpg" class="img-fluid">
+						<img src="img/lieux-historiques/Cathedrale_De_La_Major.jpg" class="img-fluid">
 						<a href="http://www.marseilletourisme.fr/les-eglises/cathedrale-major/" target="_blank">
 							<div class="mask text-center">
 								<div>

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
 		<meta charset="UTF-8">
 		<style>
 			#title {
@@ -24,7 +24,7 @@
 	<body>
 
   <?php include('menu.html');?>
-		<h2 style="margin-top: 10%"id="title">Se rendre dans la région PACA</h2>
+		<h2 style="font-family: 'Oswald', sans-serif; text-align: center; margin-top: 10%" id="title">Se rendre dans la région PACA</h2>
 		<div class="container" id="c1">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">

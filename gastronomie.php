@@ -2,15 +2,15 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Gastronomie</title>
-		<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
+	 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/stylePierre.css">
 	</head>
 	<body>
 		<?php include('menu.html'); ?>
 		<div class="container">
-			<div class="row">
-				<div  style="margin-top: 10%;" class="col-lg-12">
-					<h2>Gastronomie</h2>
+			<div class="row" style="margin-top: 10%; width: 100%">
+				<div  style="" class="col-lg-12">
+					<h1 style=" text-align: center; font-family: 'Oswald', sans-serif;" >Gastronomie</h1>
 					</br>
 					<p>La gastronomie dans la région PACA est très marquée par des influences méditerranéenne.
 					Cette cuisine est essentiellement issue de produits locaux tel que les olives, les herbes 

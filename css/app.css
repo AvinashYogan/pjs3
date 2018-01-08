@@ -23,26 +23,16 @@
 
 .grid{
 height: 470px;
+  display: grid;
 }
 
 .img1{
- background: url("../img/Culture - Monuments.jpg");
+/* background: url("../img/Culture - Monuments.jpg");*/
 background-size: 100% 100%;
-margin-top: 40%;
-}
-.img2{
- background: url("../img/Géographie - Paysages(3).jpg");
-background-size: 100% 100%;
-}
-.img3{
- background: url("../img/Tourisme - Evenements culturels.jpg");
-background-size: 100% 100%;
-}
-.img4{
- background: url("../img/Transport.jpg");
-background-size: 100% 100%;
+
 }
 
+    
  .grid:hover {
  	cursor: pointer;
     transition-duration: 0.5s;
@@ -65,7 +55,7 @@ color: white;
 
 }
 
-.img1:hover .title2, .img2:hover .title2 , .img3:hover .title2 , .img4:hover .title2{
+.img1:hover .title2{
 	transition:0.5s;
 	opacity:1;
 	text-shadow: 0px 5px 20px black;
@@ -88,3 +78,9 @@ color: white;
     opacity:0.5;}
 
 #un:hover #deux{transition:0.5s; opacity:1}
+
+
+
+
+
+

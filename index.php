@@ -6,9 +6,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Région paca</title>
 	<link rel="stylesheet" href="css/foundation.css">
-	<link rel="stylesheet" href="css/bootstrap/bootstrsap.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css"></script>
 	<link rel="stylesheet" href="css/app.css"> 
-	<link rel="stylesheet" href="css/foundation/style.css"
+	<link rel="stylesheet" href="css/foundation/style.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 <body>
 
@@ -23,36 +36,37 @@
 
       <div class="title">
         <p>  Region</p>
-        <p> Provence-Alpes-Côtes d'Azure</p>
+        <p> Provence-Alpes-Côtes d'Azur</p>
       </div>
 
     </div>
 
     <div class="row">
-      <a href="">
-        <div class="img1 grid">
+      <a href="culture.php">
+        <div class="img1 grid" style="margin-top: 50%">
          
           <h5 class="title2">Culture</h5>
         </div>
       </a>
-      <a href="">
-       <div class="img2 grid">
-         
-        <h5 class="title2">Géographie</h5>
-      </div>
-    </a>
-    <a href="">
-     <div class="img3 grid">
+     
+    <a href="tourisme.php">
+     <div class="img1 grid">
        
       <h5 class="title2">Tourisme</h5>
     </div>
   </a>
-  <a href="">
-   <div class="img4 grid">
+  <a href="Se_deplacer.php">
+   <div class="img1 grid">
      
     <h5 class="title2">Se Déplacer</h5>
   </div>
 </a>
+ <a href="Autre.php">
+       <div class="img1 grid">
+         
+        <h5 class="title2">Autre</h5>
+      </div>
+    </a>
 </div>
 
 
@@ -66,6 +80,22 @@
 
 <script type="text/javascript">
 
+
+
+$(document).ready(function() {
+    var link = ["img/Culture_Monuments.jpg",
+    "img/Tourisme_Evenements_culturels.jpg",
+    "img/Transport.jpg",
+    "img/Geographie_Paysages.jpg"]
+    
+    var i = 0;
+    $(".img1").each(function(index) {
+      
+ //   $('#divID').css("background-image", "url(/myimage.jpg)");  
+        $(this).css("background-image","url("+link[i++]+")");
+        //Removes color from array so it can't be used again
+    });
+});
 
 
 </script>

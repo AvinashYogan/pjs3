@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
+.container-grid {
+  display: grid;
+  grid-template: 100px 300px / 250px 400px;
+  font-family: 'Dancing Script', cursive;
+}
+
+/* Explicit placement */
+
+.Thibault {
+  grid-row: 1;
+  grid-column: 1;
+}
+.Avinash {
+  grid-row: 1;
+  grid-column: 2;
+}
+.Hippolyte{
+  grid-row: 2;
+  grid-column: 1;
+}
+.Pierre {
+  grid-row: 2;
+  grid-column: 2;
+}
+
+.Thibault,.Avinash,.Hippolyte,.Pierre{
+  font-family: 'Dancing Script', cursive;
+}

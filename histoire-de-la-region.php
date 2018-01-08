@@ -7,9 +7,9 @@
 	</head>
 	<body>
 		<?php include('menu.html'); ?>
-		<div class="container">
+		<div style="margin-top: 10%" class="container">
 			<div class="titre">
-				<h1>Histoire de la région</h1>
+				<h1 style="text-align: center; font-family: 'Oswald', sans-serif;" >Histoire de la région</h1>
 			</div>
 			<div class="paragraphe">
 				<p>La région Provence-Alpes-Côte d’Azur est une région riche en histoire, elle était peuplée dès le début de l’humanité puisqu’on y retrouve encore des traces de la découverte et de la maîtrise du feu à côté de Nice.</p>

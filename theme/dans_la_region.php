@@ -25,7 +25,7 @@
 	<body>
 
 		<?php include('menu.html');?>
-		<h1 style="text-align: center; font-family: 'Oswald', sans-serif;" id="title">Transports dans la région</h1>
+		<h2 id="title">Transports dans la région</h2>
 		<div class="container" id="c1">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12">
@@ -36,7 +36,7 @@
 					</p>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">
-					<img src="img/cartebus.jpg" width="600px">
+					<img src="../img/cartebus.jpg" width="600px">
 				</div>
 			</div>
 		</div>

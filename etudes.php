@@ -2,13 +2,13 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Etudes</title>
-		<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
+	 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/stylePierre.css">
 	</head>
 	<body>
 		<?php include('menu.html'); ?>
 		<div class="container centered">
-			<h2 style="margin-top: 10%">Etudes</h2>
+			<h1 style="text-align: center; font-family: 'Oswald', sans-serif; margin-top: 10%">Etudes</h1>
 			<p>La région PACA dispose d’un certain nombre d’institutions d’études supérieures,
 			dont la faculté de droit de Marseille qui dispose d’une excellente réputation.
 			Il existe 4 grands centres universitaires, plusieurs écoles d’ingénieurs, six 
