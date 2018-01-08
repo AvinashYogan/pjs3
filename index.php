@@ -7,8 +7,8 @@
 	<title>Région paca</title>
 	<link rel="stylesheet" href="css/foundation.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css"></script>
-	<link rel="stylesheet" href="css/app.css"> 
-	<link rel="stylesheet" href="css/foundation/style.css">
+  <link rel="stylesheet" href="css/app.css"> 
+  <link rel="stylesheet" href="css/foundation/style.css">
 
 
 
@@ -41,32 +41,32 @@
 
     </div>
 
-    <div class="row">
+    <div class="row halfWidth">
       <a href="culture.php">
         <div class="img1 grid" style="margin-top: 50%">
-         
+
           <h5 class="title2">Culture</h5>
         </div>
       </a>
-     
-    <a href="tourisme.php">
-     <div class="img1 grid">
-       
-      <h5 class="title2">Tourisme</h5>
-    </div>
-  </a>
-  <a href="Se_deplacer.php">
-   <div class="img1 grid">
-     
-    <h5 class="title2">Se Déplacer</h5>
-  </div>
-</a>
- <a href="Autre.php">
+
+      <a href="tourisme.php">
        <div class="img1 grid">
-         
-        <h5 class="title2">Autre</h5>
+
+        <h5 class="title2">Tourisme</h5>
       </div>
     </a>
+    <a href="Se_deplacer.php">
+     <div class="img1 grid">
+
+      <h5 class="title2">Se Déplacer</h5>
+    </div>
+  </a>
+  <a href="Autre.php">
+   <div class="img1 grid">
+
+    <h5 class="title2">Autre</h5>
+  </div>
+</a>
 </div>
 
 
@@ -82,7 +82,7 @@
 
 
 
-$(document).ready(function() {
+  $(document).ready(function() {
     var link = ["img/Culture_Monuments.jpg",
     "img/Tourisme_Evenements_culturels.jpg",
     "img/Transport.jpg",
@@ -90,12 +90,12 @@ $(document).ready(function() {
     
     var i = 0;
     $(".img1").each(function(index) {
-      
+
  //   $('#divID').css("background-image", "url(/myimage.jpg)");  
-        $(this).css("background-image","url("+link[i++]+")");
+ $(this).css("background-image","url("+link[i++]+")");
         //Removes color from array so it can't be used again
-    });
-});
+      });
+  });
 
 
 </script>

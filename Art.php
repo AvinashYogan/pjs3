@@ -22,7 +22,7 @@
 				</div>
 				<div class="">
 				</div>
-					<div class="col-lg-offset-12"  style="text-align: center; " id="tapenade"><img src="img/Culture-Cinema.jpg">
+					<div class="col-lg-offset-12"  style="text-align: center; " id="tapenade"><img class="halfWidth" src="img/Culture-Cinema.jpg">
 				
 				<div class="col-lg-12">
 					<p>En littérature: De nombreuses œuvres littéraires évoquent la région, dont l'œuvre littéraire (mais aussi théâtrale et cinématographique) de Marcel Pagnol. Ses Souvenirs d'enfance, par exemple (La Gloire de mon père, Le Château de ma mère, etc.), se déroulent principalement à Marseille et dans les collines environnantes, de même que le diptyque L'Eau des collines. On peut noter aussi les nouvelles qui composent les Lettres de mon moulin d'Alphonse Daudet et qui se situent pour la plupart dans les environs de Beaucaire (20 km à l'est de Nîmes et en face de Tarascon), et reprennent parfois des récits tirés du folklore provençal. De nombreuses autres œuvres s'inspirent ou racontent la Provence, les Alpes du sud ou encore le territoire de l'ancien comté de Nice et dont les auteurs sont Frédéric Mistral, Joseph Roumanille, René Char, Théodore Aubanel, Clovis Hugues, Henri Bosco, Marie Mauron, Yvan Audouard, Pierre Magnan, Jean-Yves Royer, Jean Giono et bien d'autres. D'autres œuvres prennent place dans les diverses zones de montagnes de la région.

@@ -20,6 +20,10 @@
 
 }
 
+.halfWidth {
+    width: 50%;
+}
+
 .grid{
 height: 470px;
   display: grid;
