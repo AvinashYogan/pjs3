@@ -12,9 +12,9 @@
 			<div style="margin-top: 10%" class="titre">
 				<h1  style="font-family: 'Oswald', sans-serif; text-align: center;">Evènements Culturels</h1>
 			</div>
-			<div class="row">
+			<div class="row tqWidth">
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Musee_National_Fernand_Leger.jpg" class="img-fluid">
 						<a href="http://musees-nationaux-alpesmaritimes.fr/fleger/" target="_blank">
 							<div class="mask text-center">
@@ -26,7 +26,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Palais_Lascaris.jpg" class="img-fluid">
 						<a href="http://www.nicetourisme.com/nice/53-palais-lascaris" target="_blank">
 							<div class="mask text-center">
@@ -38,7 +38,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Musee_Picasso.jpg" class="img-fluid">
 						<a href="http://www.antibes-juanlespins.com/culture/musee-picasso" target="_blank">
 							<div class="mask text-center">
@@ -50,9 +50,9 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row tqWidth">
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/MAMAC.jpg" class="img-fluid">
 						<a href="http://www.mamac-nice.org/" target="_blank">
 							<div class="mask text-center">
@@ -64,7 +64,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Villa_Noailles.jpg" class="img-fluid">
 						<a href="http://villanoailles-hyeres.com/festival-2018/index.php" target="_blank">
 							<div class="mask text-center">
@@ -76,7 +76,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Verrerie_Pierini.jpg" class="img-fluid">
 						<a href="http://www.pierini.fr/" target="_blank">
 							<div class="mask text-center">
@@ -88,9 +88,9 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row tqWidth">
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Festival_De_Cannes.jpg" class="img-fluid">
 						<a href="http://www.festival-cannes.com/fr/" target="_blank">
 							<div class="mask text-center">
@@ -102,7 +102,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/Electrobeach.jpg" class="img-fluid">
 						<a href="http://www.electrobeach.com/" target="_blank">
 							<div class="mask text-center">
@@ -114,7 +114,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-4">
-					<div class="view overlay hm-black-strong">
+					<div class="img-text">
 						<img src="img/evenements-culturels/MARSATAC.jpg" class="img-fluid">
 						<a href="http://www.marsatac.com/" target="_blank">
 							<div class="mask text-center">

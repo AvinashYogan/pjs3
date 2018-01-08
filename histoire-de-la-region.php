@@ -17,11 +17,9 @@
 				<p>Le PACA, au sens administratif, est créée en 1956 et incluait la Corse jusqu’en 1970. Ce n’est qu’en 1976 qu’elle prend le nom qu’on connaît aujourd’hui, Provence-Alpes-Côte d’Azur. Un peu plus de 20 ans plus tard, en 1998, la région adopte son drapeau. Celui-ci regroupe les anciennes armoiries de la Provence, du Dauphiné et du Comté de Nice.</p>
 			</div>
 			<div class="row">
-				<div class="images3">
-					<img src="img/histoire-de-la-region/blas1.jpg">
-					<img src="img/histoire-de-la-region/blas2.jpg">
-					<img src="img/histoire-de-la-region/blas3.jpg">
-				</div>
+					<img class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4" src="img/histoire-de-la-region/blas1.jpg">
+					<img class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4" src="img/histoire-de-la-region/blas2.jpg">
+					<img class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4" src="img/histoire-de-la-region/blas3.jpg">
 			</div>
 		</div>
 		<?php include('footer.html'); ?>
