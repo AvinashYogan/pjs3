@@ -68,7 +68,7 @@
   grid-template: 100px 300px / 250px 400px;" class="  container-grid">
   <h2 class="Thibault">Thibault</h2>
   <h2 class="Avinash">Avinash</h2>
-  <h2 class="Hippolyte">Hyppolite</h2>
+  <h2 class="Hippolyte">Hippolyte</h2>
   <h2 class="Pierre">Pierre</h2>
 </div>
 
