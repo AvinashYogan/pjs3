@@ -11,7 +11,7 @@
 			<div style="margin-top: 10%" class="titre">
 				<h1  style="font-family: 'Oswald', sans-serif; text-align: center;">Lieux Historiques</h1>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/lieux-historiques/Théâtre_Antique_d_Orange.jpg" class="img-fluid">
@@ -49,7 +49,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/lieux-historiques/Vieux_Nice.jpg" class="img-fluid">
@@ -87,7 +87,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/lieux-historiques/Palais_Des_Papes.jpg" class="img-fluid">

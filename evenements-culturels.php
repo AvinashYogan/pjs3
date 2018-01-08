@@ -12,7 +12,7 @@
 			<div style="margin-top: 10%" class="titre">
 				<h1  style="font-family: 'Oswald', sans-serif; text-align: center;">Evènements Culturels</h1>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/evenements-culturels/Musee_National_Fernand_Leger.jpg" class="img-fluid">
@@ -50,7 +50,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/evenements-culturels/MAMAC.jpg" class="img-fluid">
@@ -88,7 +88,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row tqWidth">
+			<div class="row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="img-text">
 						<img src="img/evenements-culturels/Festival_De_Cannes.jpg" class="img-fluid">
